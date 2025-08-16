@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 import matplotlib.pyplot as plt
 import seaborn as sns
-%matplotlib inline  
+#%matplotlib inline  
 
 
 df = pd.read_csv("data.csv")
