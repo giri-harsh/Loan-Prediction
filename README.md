@@ -17,23 +17,31 @@ It includes **data preprocessing, encoding, scaling, and model training**.
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
 ```
+# Loan Approval Prediction App
 
-## ⚙️ Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/loan-prediction.git
-   cd loan-prediction
-   ```
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://loan-approval-harsh-giri.streamlit.app/)
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+Developed using Streamlit, this app predicts loan approval status based on user inputs.
 
-3. Run the script:
-   ```bash
-   python Loan-Pred-LogisticReg.py
-   ```
+
+
+## Quick Access
+
+- View the live app: [Launch the Loan Prediction App](https://loan-approval-harsh-giri.streamlit.app/)
+
+## ✨ Features of the Loan Prediction App
+
+✅ Upload or input loan applicant data.
+
+✅ Handles missing values and categorical encoding.
+
+✅ Uses Logistic Regression model for loan approval prediction.
+
+✅ Preprocessed data with feature scaling.
+
+✅ Predicts loan status (Approved / Not Approved).
+
+✅ Deployed live with Streamlit for easy access.
 
 ## 📊 Model
 - Algorithm: **Logistic Regression**
@@ -42,7 +50,13 @@ It includes **data preprocessing, encoding, scaling, and model training**.
 ## ✅ Requirements
 See [requirements.txt](requirements.txt) for full details.
 
-## 👨‍💻 Author
+## About me!
 - Harsh Giri  
 - BTech CSE (Data Science), AKGEC  
 - Passionate about **AI/ML & Data Science**
+- Linkedin.com/in/giri-harsh
+- github.com/giri-harsh
+- 2006.harshgiri@gmail.com
+
+# Checkout this really cool repo
+  -https://github.com/giri-harsh/Machine-Learning-Projects
